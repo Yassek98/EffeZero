@@ -1,0 +1,89 @@
+🗺️ ROADMAP DI PROGETTO: FO / EFFEZERO
+
+"Pixel-Perfect, Zero Costi, Massima Resa."
+
+🟢 FASE 1: FONDAMENTA & DATI (Settimana 1)
+
+L'obiettivo è dare le chiavi al cliente per caricare i contenuti mentre noi lavoriamo al design.
+
+[ ] Setup Ambiente
+
+[x] Definizione Stack (Next.js + Sanity + Tailwind)
+
+[ ] Creazione Repo GitHub
+
+[ ] Installazione progetto studio (CMS)
+
+[ ] Installazione progetto web (Frontend)
+
+[ ] Modellazione Dati (Il Cervello)
+
+[ ] Schema Membro (Nome, Bio, Foto, Ordine, IG)
+
+[ ] Schema Progetto (Gallery, Layout Type, Descrizione)
+
+[ ] Schema Archivio (Foto Singola, Tag, Filtri)
+
+[ ] MILESTONE: Deploy CMS su Sanity Cloud & Consegna Link al Cliente.
+
+🟡 FASE 2: STRUTTURA & DESIGN SYSTEM (Settimana 2)
+
+Costruiamo lo scheletro visivo. Deve essere responsive e tipograficamente perfetto.
+
+[ ] Frontend Core
+
+[ ] Configurazione Tailwind (Font, Colori, Spaziature "Brutaliste")
+
+[ ] Componente Header (Logo FO + Menu Minimal)
+
+[ ] Componente Footer (Nero + Forma Bianca Organica)
+
+[ ] Configurazione next/font (Inter + Serif)
+
+[ ] Sviluppo Pagine Statiche
+
+[ ] Home Page: Scroll Verticale + Hero Sections
+
+[ ] Chi Siamo: Layout asimmetrico testo/foto
+
+[ ] Membri (Lista): Grid Layout semplice
+
+🟠 FASE 3: LOGICA & INTERATTIVITÀ (Settimana 3)
+
+Qui avviene la magia. Il sito diventa "vivo".
+
+[ ] Logica Complessa
+
+[ ] Navigazione Membri: Logica Precedente / Successivo (Linked List)
+
+[ ] Pagina Progetti: Componente "Maschera Circolare" + Hover
+
+[ ] Template Progetto: Gestione layout "Piccolo" vs "Complesso"
+
+[ ] Il "Mostro" (Archivio)
+
+[ ] Fetch di tutte le foto (JSON leggero)
+
+[ ] Sistema di Filtri (Client-Side Filtering per velocità istantanea)
+
+[ ] "Foto del Mese" (Logica featured)
+
+🔴 FASE 4: POLISH & DEPLOY (Settimana 4)
+
+Dettagli che fanno la differenza tra un sito amatoriale e uno pro.
+
+[ ] Visual Experience
+
+[ ] Lightbox: Overlay Fullscreen con navigazione contestuale
+
+[ ] Animazioni: Framer Motion (Fade in allo scroll, transizioni pagina)
+
+[ ] Mobile Check: Verifica touch targets e layout su iPhone
+
+[ ] Launch
+
+[ ] Deploy su Vercel
+
+[ ] Collegamento Dominio
+
+[ ] SEO Basic (Meta tags dinamici)
