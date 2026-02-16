@@ -1,0 +1,61 @@
+
+📝 Brief di Progetto: FO / Effezero Digital Experience
+Siamo un collettivo fotografico e vogliamo un sito web che sia un'estensione digitale della nostra identità: crudo, editoriale, minimalista e fortemente visivo. Non vogliamo il solito sito vetrina statico; deve sembrare un magazine interattivo, uno spazio di archiviazione vivo.
+
+Il design deve essere rigorosamente in Bianco e Nero, con una tipografia forte e audace. Il colore deve esplodere solo attraverso le nostre fotografie.
+
+Ecco come deve funzionare il sito, pagina per pagina:
+
+1. La Home Page (Il Manifesto)
+Vogliamo una pagina a scorrimento verticale continuo. Deve essere impattante.
+
+Contenuto: Un'alternanza ritmica tra immagini a tutto schermo e testi giganti che spiegano la nostra filosofia ("Laboratorio di sviluppo", "Senza pretese").
+
+Navigazione: Il menu (Chi Siamo, Membri, Progetti, Archivio) deve essere pulito e facile da raggiungere.
+
+Footer: Un blocco nero massiccio in fondo alla pagina con i contatti e i social. Nota importante: nell'angolo in basso a destra deve esserci quella forma organica bianca che vedi nel design, è un nostro segno distintivo.
+
+2. Chi Siamo
+Questa pagina non deve essere un muro di testo noioso.
+
+Layout: Vogliamo un'impaginazione "asimmetrica". Le foto del collettivo e i testi narrativi devono fluttuare nella pagina, rompendo la griglia rigida, quasi come un collage editoriale.
+
+3. I Membri (Il Team)
+Indice: Una griglia pulita con i volti di tutti noi.
+
+Profilo Singolo: Cliccando su un volto, si apre la pagina del fotografo. Qui ci sarà la foto, il nome, una citazione ("Quote") e una breve bio, oltre al link diretto al suo Instagram.
+
+Funzionalità Fondamentale: Non voglio dover tornare indietro per vedere il prossimo membro. In ogni profilo devono esserci frecce o link "Precedente" e "Successivo" che mi permettono di sfogliare i fotografi uno dopo l'altro. Se sono all'ultimo, cliccando "avanti" devo tornare al primo (loop).
+
+4. I Progetti (Le nostre opere)
+Pagina Indice: Qui l'interfaccia cambia. I link ai progetti non sono rettangoli, ma maschere circolari con dentro l'anteprima del lavoro.
+
+Pagina Dettaglio Progetto:
+
+Alcuni progetti avranno un layout semplice (Foto grande + testo).
+
+Altri (come "Senza Pretese") avranno layout complessi: collage, foto sovrapposte, scansioni di provini. Il sito deve supportare questa flessibilità.
+
+In fondo a ogni progetto, vogliamo rivedere i "cerchi" per saltare subito a un altro progetto.
+
+5. L'Archivio (Il Cuore Pulsante)
+Questa è la sezione più complessa e importante. È il nostro database visivo.
+
+Foto in Evidenza: In alto vogliamo una "Foto della Settimana (o del Mese)" grande. Questa foto dobbiamo poterla cambiare noi periodicamente per dare freschezza al sito. Cliccandola, si apre a tutto schermo.
+
+Il Motore di Ricerca/Filtri: Sotto la copertina, ci deve essere una lista di tag cliccabili: Bianco e Nero, Colore, Analogica, Digitale, Shot on iPhone, Collage, ecc.
+
+Comportamento: Quando un utente clicca su "Analogica", la griglia di foto sotto deve aggiornarsi immediatamente, mostrandomi solo le foto analogiche. I filtri devono essere intuitivi.
+
+6. Modalità Visualizza (Il Lightbox)
+Quando clicco su una qualsiasi foto (sia nei progetti che nell'archivio), questa deve aprirsi a tutto schermo su sfondo nero.
+
+Navigazione Contestuale (Molto Importante):
+
+Se apro una foto dal progetto "Frammenti di Calore", le frecce "Avanti/Indietro" devono farmi scorrere solo le 37 foto di quel progetto.
+
+Se apro una foto dall'Archivio filtrato per "Bianco e Nero", le frecce devono farmi scorrere tra tutte le foto in bianco e nero del sito.
+
+Deve esserci un contatore (es. "1/150") per capire a che punto sono.
+
+In sintesi: Estetica brutale, navigazione fluida tra i contenuti, e un archivio potente e filtrabile.
