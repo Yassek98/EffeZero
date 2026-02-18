@@ -14,10 +14,10 @@ export default function Home() {
       <main className="flex-1">
         {/* HERO SECTION */}
         <section className="h-[80vh] flex flex-col justify-center items-center bg-black text-white relative overflow-hidden px-4">
-          <div className="absolute inset-0 bg-[url('/mock/hero-bg.jpg')] bg-cover bg-center opacity-30 grayscale mix-blend-screen"></div>
+          <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1542038784456-1ea8e935640e?q=80&w=2070')] bg-cover bg-center opacity-30 grayscale mix-blend-screen"></div>
           <div className="z-10 text-center">
             <h1 className="text-6xl md:text-9xl font-black mb-2 leading-none uppercase tracking-tighter mix-blend-difference">
-              Senza<br/>Pretese
+              Senza<br />Pretese
             </h1>
             <p className="text-xl md:text-2xl font-bold uppercase tracking-[0.3em] mt-4 border-t border-b border-white py-2 inline-block">
               Laboratorio di sviluppo
@@ -34,7 +34,7 @@ export default function Home() {
         <section className="py-24 px-4 md:px-12 bg-white text-black border-b-4 border-black">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl md:text-6xl font-black uppercase mb-8 leading-tight">
-              Non siamo un'agenzia.<br/>
+              Non siamo un'agenzia.<br />
               Siamo un <span className="underline decoration-4 underline-offset-8 decoration-black">collettivo</span>.
             </h2>
             <p className="text-xl md:text-2xl font-serif italic leading-relaxed text-gray-800">
@@ -61,13 +61,13 @@ export default function Home() {
 
         {/* CALL TO ACTION / ARCHIVE LINK */}
         <section className="py-32 px-4 bg-black text-white text-center relative overflow-hidden group">
-            <div className="absolute inset-0 bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none"></div>
-            <h2 className="text-5xl md:text-8xl font-black uppercase mb-8 z-10 relative">
-              Esplora l'Archivio
-            </h2>
-            <Link href="/archivio" className="inline-block border-2 border-white px-8 py-3 text-xl font-bold uppercase hover:bg-white hover:text-black transition-all duration-300 z-10 relative">
-              Entra nel Database -&gt;
-            </Link>
+          <div className="absolute inset-0 bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none"></div>
+          <h2 className="text-5xl md:text-8xl font-black uppercase mb-8 z-10 relative">
+            Esplora l'Archivio
+          </h2>
+          <Link href="/archivio" className="inline-block border-2 border-white px-8 py-3 text-xl font-bold uppercase hover:bg-white hover:text-black transition-all duration-300 z-10 relative">
+            Entra nel Database -&gt;
+          </Link>
         </section>
       </main>
 

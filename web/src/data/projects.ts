@@ -13,39 +13,39 @@ export const projects: Project[] = [
     id: "senza-pretese",
     title: "Senza Pretese",
     description: "Un viaggio visivo attraverso la banalità del quotidiano, elevata a forma d'arte. Nessuna posa, solo la cruda realtà.",
-    coverImage: "/mock/project1-cover.jpg",
+    coverImage: "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1974",
     year: "2023",
     type: "complex",
     images: [
-      "/mock/project1-1.jpg",
-      "/mock/project1-2.jpg",
-      "/mock/project1-3.jpg",
-      "/mock/project1-4.jpg"
+      "https://images.unsplash.com/photo-1579353977828-2a4eab540b9a?q=80&w=1974",
+      "https://images.unsplash.com/photo-1531804055935-76f44d7c3621?q=80&w=1974",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1974",
+      "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?q=80&w=1974"
     ]
   },
   {
     id: "frammenti-calore",
     title: "Frammenti di Calore",
     description: "Studio sulla luce estiva e le sue deformazioni sulle superfici urbane.",
-    coverImage: "/mock/project2-cover.jpg",
+    coverImage: "https://images.unsplash.com/photo-1518152006812-edab29b069ac?q=80&w=2070",
     year: "2024",
     type: "simple",
     images: [
-      "/mock/project2-1.jpg",
-      "/mock/project2-2.jpg",
-      "/mock/project2-3.jpg"
+      "https://images.unsplash.com/photo-1500622388414-8313438a3a91?q=80&w=2070",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=2069",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2071"
     ]
   },
   {
     id: "cementificati",
     title: "Cementificati",
     description: "L'avanzata inesorabile del grigio. Architetture brutaliste e natura resistente.",
-    coverImage: "/mock/project3-cover.jpg",
+    coverImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070",
     year: "2022",
     type: "simple",
     images: [
-      "/mock/project3-1.jpg",
-      "/mock/project3-2.jpg"
+      "https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1965",
+      "https://images.unsplash.com/photo-1470723710355-95304d8aece4?q=80&w=2070"
     ]
   }
 ];
