@@ -13,7 +13,7 @@ export const projects: Project[] = [
     id: "senza-pretese",
     title: "Senza Pretese",
     description: "Un viaggio visivo attraverso la banalità del quotidiano, elevata a forma d'arte. Nessuna posa, solo la cruda realtà.",
-    coverImage: "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1974",
+    coverImage: "/img/project-senza-pretese.png",
     year: "2023",
     type: "complex",
     images: [
@@ -27,7 +27,7 @@ export const projects: Project[] = [
     id: "frammenti-calore",
     title: "Frammenti di Calore",
     description: "Studio sulla luce estiva e le sue deformazioni sulle superfici urbane.",
-    coverImage: "https://images.unsplash.com/photo-1518152006812-edab29b069ac?q=80&w=2070",
+    coverImage: "/img/project-frammenti.png",
     year: "2024",
     type: "simple",
     images: [
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     id: "cementificati",
     title: "Cementificati",
     description: "L'avanzata inesorabile del grigio. Architetture brutaliste e natura resistente.",
-    coverImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070",
+    coverImage: "/img/project-cementificati.png",
     year: "2022",
     type: "simple",
     images: [

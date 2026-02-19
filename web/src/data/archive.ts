@@ -10,7 +10,7 @@ export interface ArchivePhoto {
 export const archive: ArchivePhoto[] = [
   {
     id: "arch-1",
-    url: "/mock/archive1.jpg",
+    url: "/img/archive-featured.png",
     title: "Ombre lunghe",
     photographer: "Marco Rossi",
     tags: ["Bianco e Nero", "Analogica"],
@@ -18,7 +18,7 @@ export const archive: ArchivePhoto[] = [
   },
   {
     id: "arch-2",
-    url: "/mock/archive2.jpg",
+    url: "/img/member-marco.png",
     title: "Neon Notturno",
     photographer: "Giulia Bianchi",
     tags: ["Colore", "Digitale", "Sperimentale"],
@@ -26,7 +26,7 @@ export const archive: ArchivePhoto[] = [
   },
   {
     id: "arch-3",
-    url: "/mock/archive3.jpg",
+    url: "/img/member-giulia.png",
     title: "Texture Muro",
     photographer: "Luca Verdi",
     tags: ["Bianco e Nero", "iPhone"],
@@ -34,7 +34,7 @@ export const archive: ArchivePhoto[] = [
   },
   {
     id: "arch-4",
-    url: "/mock/archive4.jpg",
+    url: "/img/member-luca.png",
     title: "Folla",
     photographer: "Marco Rossi",
     tags: ["Bianco e Nero", "Analogica"],
@@ -42,7 +42,7 @@ export const archive: ArchivePhoto[] = [
   },
   {
     id: "arch-5",
-    url: "/mock/archive5.jpg",
+    url: "/img/project-senza-pretese.png",
     title: "Tramonto Chimico",
     photographer: "Giulia Bianchi",
     tags: ["Colore", "Digitale"],
